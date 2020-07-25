@@ -4,8 +4,8 @@ h1 {
   text-align:center;
 }
 
-tr{
-  style="text-align:right;"
+.tr{
+  text-align:right;
 }
 p {
   border: 1px solid black;
