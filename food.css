@@ -3,9 +3,6 @@ h1 {
   font-size : 38px
   text-align:center;
 }
-tr{
-  text-align:right;
-}
 
 p {
   border: 1px solid black;
@@ -15,6 +12,10 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color: white;
+  .tr{
+  text-align:right;
+}
+
 }
 .row {
   width: 100%;
